@@ -1,0 +1,10 @@
+C:\Users\Sebi\source\repos\Carrier\bin\Debug\Carrier.exe.config
+C:\Users\Sebi\source\repos\Carrier\bin\Debug\Carrier.exe
+C:\Users\Sebi\source\repos\Carrier\bin\Debug\Carrier.pdb
+C:\Users\Sebi\source\repos\Carrier\obj\Debug\Carrier.csproj.AssemblyReference.cache
+C:\Users\Sebi\source\repos\Carrier\obj\Debug\Carrier.Form1.resources
+C:\Users\Sebi\source\repos\Carrier\obj\Debug\Carrier.Properties.Resources.resources
+C:\Users\Sebi\source\repos\Carrier\obj\Debug\Carrier.csproj.GenerateResource.cache
+C:\Users\Sebi\source\repos\Carrier\obj\Debug\Carrier.csproj.CoreCompileInputs.cache
+C:\Users\Sebi\source\repos\Carrier\obj\Debug\Carrier.exe
+C:\Users\Sebi\source\repos\Carrier\obj\Debug\Carrier.pdb
